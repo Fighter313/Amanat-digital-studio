@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fighter313.github.io/Amanat-digital-studio/sitemap.xml
